@@ -1,0 +1,6 @@
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinLogic\bin\Debug\JardinLogic.dll
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinLogic\bin\Debug\JardinLogic.pdb
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinLogic\obj\Debug\JardinLogic.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinLogic\obj\Debug\JardinLogic.dll
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinLogic\obj\Debug\JardinLogic.pdb
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinLogic\obj\Debug\JardinLogic.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\bin\Debug\JardinApp.exe.config
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\bin\Debug\JardinApp.exe
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\bin\Debug\JardinApp.pdb
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\bin\Debug\JardinLogic.dll
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\bin\Debug\JardinLogic.pdb
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.csprojAssemblyReference.cache
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.Properties.Resources.resources
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.csproj.GenerateResource.cache
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.csproj.CoreCompileInputs.cache
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.csproj.CopyComplete
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.exe
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.pdb
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.FrmPrincipal.resources
+C:\Users\tomi_\source\repos\Zorzano.Tomas.2D\JardinApp\obj\Debug\JardinApp.FrmSecundario.resources
